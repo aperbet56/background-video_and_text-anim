@@ -6,7 +6,7 @@ Mise en place d'un background-vidéo et d'une animation sur le texte en utilisan
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/background-video_and_text-anim/
 
 ## Projet développé avec
 
